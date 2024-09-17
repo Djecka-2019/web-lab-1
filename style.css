@@ -125,7 +125,15 @@ ol {
     width: max(80%, 100px);
 }
 
-.image{
+.gif {
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.gif img {
+    max-width: 100%;
+    height: auto;
+    width: 500px; /* Adjust the width as needed */
 }
