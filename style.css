@@ -117,14 +117,6 @@ ol {
     margin-top: 10px;
 }
 
-.angels {
-    grid-area: y;
-    align-self: center;
-    background-color: antiquewhite;
-    padding: 2px;
-    width: max(80%, 100px);
-}
-
 .gif {
     display: flex;
     justify-content: center;
@@ -135,5 +127,5 @@ ol {
 .gif img {
     max-width: 100%;
     height: auto;
-    width: 500px; /* Adjust the width as needed */
+    width: 500px;
 }
