@@ -154,6 +154,7 @@ ol {
 .img img {
     width: 500px;
     max-height: 50vh;
+    max-width: 100%;
 }
 
 .scrollable {
